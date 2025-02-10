@@ -1,7 +1,7 @@
 # AluraMidi
 Projeto de estudo com Alura.
 
-<a >Clique para ver o projeto.</a>
+<a href="https://thaisholz.github.io/AluraMidi/">Clique para ver o projeto.</a>
 
 
 **Thais Coelho**
